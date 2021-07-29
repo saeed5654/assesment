@@ -1,0 +1,26 @@
+<?php
+return $array = [
+    'logout' => 'Logout successfully!',
+    'login' => 'Login successfully!',
+    'register' => 'Register successfully!',
+    'video_added' => 'Video added successfully!',
+    'internal_error' => 'There is something wrong on server.',
+    'un_auth' => 'UnAuthorised',
+    'invalid_credentials'=> 'Invalid credentials',
+    'contact_verify' => ':contact is verified!',
+    'otp_sent' => 'otp send on :contact successfully!',
+    'property_required'=> ':property is required',
+    'not_found' => ':record does not exist!',
+    'login_required' => 'Please log in first!',
+    'record_update' => ':record updated successfully!',
+    'contact_verified'=> 'Your :contact is already verified',
+    'add_file' => 'Please select :file to upload!',
+    'call_request' => 'Call request :status',
+    'notification' => 'Notification stored successfully',
+    'old_password' => 'Please provide the correct current password',
+    'message_store' => 'Message stored successfully!',
+    'transaction_complete' => 'Transaction successfully processed!!',
+    'deleted_source' => 'Card deleted successfully!!',
+    'account_status' => 'Merchant account is :status you are not able to send payment',
+    'video_updated' => 'Video updated successfully'
+];
